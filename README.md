@@ -1,6 +1,10 @@
-# Holographic-Animal-Sorting-
-Implemented a learning program utilizing the modern technologies of interactive holograms through Augmented Reality
+# Holographic-Animal-Sorting
 
-Scripts are created in C# using Microsoft Visual Studios, and the rest of the files come from Unity. 
+Implemented a learning program to teach popular sorting algorithms and deploying on the Microsoft HoloLens.
 
-Demo could be found at: https://youtu.be/DtawEmU9MvM
+Scripts are created in C# using Microsoft Visual Studios, and the program itself was built in Unity. 
+
+*Demo could be found at:* https://youtu.be/DtawEmU9MvM
+
+
+#Screenshots: 
